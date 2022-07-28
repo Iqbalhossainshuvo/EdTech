@@ -1,0 +1,16 @@
+
+.carousal-info{
+    padding-left: 15rem;
+}
+
+.carousel-caption {
+   
+    position: absolute;
+    right: 10%;
+    bottom: 1rem;
+    left: 10%;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+    color: #fff;
+    text-align: center;
+}
