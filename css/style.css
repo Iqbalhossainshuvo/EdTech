@@ -1,7 +1,12 @@
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* START SLIDER */
 .carousal-info{
     padding-left: 15rem;
 }
+
 
 .carousel-caption {
    
@@ -13,4 +18,23 @@
     padding-bottom: 1rem;
     color: #fff;
     text-align: center;
+}
+
+/* E-LEARNING INSTITUTE  */
+.elearning{
+   padding-top: 8rem;
+   padding-left: 5rem;
+}
+
+
+/* START Ready to join SECTION  */
+.read-join{
+    padding: 2rem 2rem 0 2rem;
+    justify-content: center;
+}
+
+
+.accordion-flush{
+    padding-left: 8rem;
+    padding-right: 8rem;
 }
